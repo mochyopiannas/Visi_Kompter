@@ -1,0 +1,6 @@
+print ("--------Biodata--------")
+print ("=======================")
+print ("Nama Lengkap    : Moch Yopi Annas")
+print ("NIM             : B34180028")
+print ("Kelas           : Teknik Informatika 2018 A")
+print ("Kampus          : Universitas Nahdlatul Ulama Sidoarjo")     
